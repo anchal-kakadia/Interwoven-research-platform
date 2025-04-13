@@ -1,0 +1,93 @@
+.sign-out-box {
+    padding: 1.25rem 2.5rem;
+    border-radius: 2rem;
+}
+
+.sign-out-bg {
+    background-color: #ececec;
+}
+
+.sign-out-input-box {
+    background: white;
+    box-shadow: none;
+    border: 1px solid #bbb;
+    font-size: 1rem;
+    padding: 0.5rem 1rem;
+    color: black;
+    font-weight: 450;
+}
+
+.sign-out-label-text {
+    color: black;
+    font-size: 1.2rem;
+    margin-bottom: 0.25rem;
+    font-weight: 550;
+}
+
+.sign-out-logo-image {
+    display: flex;
+    justify-content: center;
+    justify-items: center;
+    align-items: center;
+}
+
+.sign-out-logo-image img {
+    margin: 1.25rem 0rem;
+    max-height: 90px;
+    max-width: 160px;
+}
+
+.sign-out-button {
+    align-items: center;
+    background-color: white;
+    border: 1px solid rgb(0, 0, 0, 0.1);
+    font-size: 1.1rem;
+    font-weight: 500;
+    justify-content: center;
+    min-height: 62px;
+    padding: 0.75rem 1rem;
+    position: relative;
+    transition: all 0.1s ease-in-out;
+}
+
+.sign-out-button:hover {
+    background-color: #ececec;
+}
+
+.warnings {
+    font-size: 0.8rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.required-field {
+    color: red;
+    margin-left: 0.2rem;
+}
+
+.disclaimer-text {
+    font-size: 0.9rem;
+    color: #666;
+    margin-top: 0.5rem;
+    text-align: center;
+}
+
+.error-border {
+    border: 1px solid red !important;
+}
+
+.redirect-text {
+    text-align: center;
+    font-size: 0.9rem;
+    color: #333;
+    cursor: pointer;
+    margin-top: 0.5rem;
+}
+
+.redirect-text:hover {
+    color: red;
+}
+.red-hover:hover {
+    color: red;
+  }
