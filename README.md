@@ -1,6 +1,6 @@
 # 📚 Interwoven Research Journal Platform
 
-*A Next.js & Node.js platform automating academic workflows for [Your University Name]*
+*A Next.js & Node.js platform automating academic workflows for Navrachana University
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
